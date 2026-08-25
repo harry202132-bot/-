@@ -1,0 +1,29 @@
+{
+  "name": "管理後台介面",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@google/genai": "latest",
+    "dom-to-svg": "^0.12.2",
+    "html-to-image": "^1.11.13",
+    "lucide-react": "^1.31.0",
+    "mermaid": "10",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-markdown": "9",
+    "react-select": "^5.10.2",
+    "remark-gfm": "4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}

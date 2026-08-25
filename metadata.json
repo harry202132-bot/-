@@ -1,0 +1,8 @@
+{
+  "name": "管理後台介面",
+  "description": "一個管理後台介面，包含分潤對象管理（經營者與店家引薦）等功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
